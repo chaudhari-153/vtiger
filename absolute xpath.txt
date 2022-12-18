@@ -1,0 +1,64 @@
+ Absolute Xpath for flipkart img
+
+for mobile img
+html/body/div/div/div[2]/div/div/div/[3]/a/div[1]/div/img
+
+
+for grocery img
+html/body/div/div/div[2]/div/div/div/[2]/a/div[1]/div/img
+
+for fashion img
+html/body/div/div/div[2]/div/div/div/[4]/a/div[1]/div/img
+
+for electronics img
+html/body/div/div/div[2]/div/div/div[5]/a/div[1]/div/img
+
+for home img
+html/body/div/div/div[2]/div/div/div[6]/a/div[1]/div/img
+
+for appliances img
+html/body/div/div/div[2]/div/div/div[7]/a/div[1]/div/img
+
+for travel img
+html/body/div/div/div[2]/div/div/div[8]/a/div[1]/div/img
+
+for beauty toys and more img
+html/body/div/div/div[2]/div/div/div[9]/a/div[1]/div/img
+
+for 2-wheelers img
+html/body/div/div/div[2]/div/div/div[10]/a/div[1]/div/img
+
+
+
+
+
+
+Absolute Xpath for flipkart text
+
+for grocery text
+html/body/div/div/div[2]/div/div/div[2]/a/div[2]
+
+for mobile text
+html/body/div/div/div[2]/div/div/div[3]/a/div[2]
+
+for fashion text
+html/body/div/div/div[2]/div/div/div[4]/a/div[2]
+
+for electronics text
+html/body/div/div/div[2]/div/div/div[5]/a/div[2]
+
+for home text
+html/body/div/div/div[2]/div/div/div[6]/a/div[2]
+
+for appliances text
+html/body/div/div/div[2]/div/div/div[7]/a/div[2]
+
+for travel text
+html/body/div/div/div[2]/div/div/div[8]/a/div[2]
+
+for beauty,toysand more text
+html/body/div/div/div[2]/div/div/div[9]/a/div[2]
+
+for 2 wheelers text
+html/body/div/div/div[2]/div/div/div[10]/a/div[2]
+
